@@ -127,10 +127,18 @@ Feel free to explore my work, connect with me, or reach out for collaboration.
 
 ---
 
+---
+
 <p align="center">
   <i>Turning data into insights. Building solutions that create impact.</i>
 </p>
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=ashwikbire&icon=0&color=1" alt="Profile Views"/>
+  <a href="https://ashwikbire.github.io/My-Portfolio/">
+    🌐 <b>Visit My Portfolio</b>
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://www.linkedin.com/in/ashwik-bire-b2a000186/">
+    💼 <b>LinkedIn</b>
+  </a>
 </p>
