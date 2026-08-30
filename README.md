@@ -1,18 +1,136 @@
-# 💫 About Me:
-I’m currently working on<br>Data Analytics and AI projects using Python, Power BI, SQL, and Streamlit, including building learning tools and smart dashboards.<br><br>I’m looking to collaborate on<br>Open-source projects related to Data Analytics, Machine Learning, Power BI dashboards, and Python-based applications.<br><br>I’m looking for help with<br>Optimizing data pipelines, improving model performance, and building scalable, production-ready analytics solutions.<br><br>I’m currently learning<br>Advanced Machine Learning, Generative AI, cloud data tools, and better data visualization techniques.<br><br>Ask me about<br>Power BI, data analytics, Python, SQL, dashboard design, and turning raw data into clear insights.<br><br>Fun fact<br>I enjoy simplifying complex data problems into clean visuals and easy explanations.
+# 👋 About Me
 
+I’m a **Data Analytics & Business Intelligence professional** focused on transforming complex data into meaningful business insights and scalable analytical solutions.
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Ashwik Rajendra Bire) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ashwik_bire) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ashwik Bire) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashwikbire@gmail.com) 
+🔹 **Currently working on**
+Data Analytics, Business Intelligence, and AI projects using **Python, SQL, Power BI, and Streamlit**, including interactive dashboards, analytical applications, and intelligent data solutions.
 
-# 💻 Tech Stack:
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ashwikbire&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ashwikbire&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashwikbire&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+🔹 **Open to collaborating on**
+Open-source and real-world projects involving **Data Analytics, Machine Learning, Business Intelligence, Data Visualization, and Python-based applications**.
+
+🔹 **Interested in solving**
+Data pipeline optimization, analytical automation, model improvement, dashboard performance, and building **scalable, production-ready data solutions**.
+
+🔹 **Currently exploring**
+**Generative AI, Machine Learning, Microsoft Azure, Cloud Data Platforms, modern BI architectures, and advanced data visualization**.
+
+🔹 **Ask me about**
+**Power BI • SQL • Python • Data Analytics • DAX • Data Visualization • Business Intelligence • Dashboard Development • Machine Learning**
+
+🔹 **My approach**
+I focus on converting **raw and complex data into clear insights, intuitive visualizations, and practical business solutions** that support better decision-making.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ashwikbire&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional%20Profile-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ashwik-bire-b2a000186/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-6C63FF?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://ashwikbire.github.io/My-Portfolio/)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:ashwikbire@gmail.com)
+
+---
+
+# 🛠️ Technical Expertise
+
+### 📊 Business Intelligence & Analytics
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
+
+### 🐍 Programming & Data Science
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge\&logo=matplotlib\&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge\&logo=plotly\&logoColor=white)
+
+### 🤖 Machine Learning & AI
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge\&logo=keras\&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge\&logo=mlflow\&logoColor=white)
+
+### ☁️ Cloud & Data Engineering
+
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge\&logo=apacheairflow\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+### 🚀 Application & Development
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+
+---
+
+# 📈 What I Build
+
+* 📊 Interactive **Power BI dashboards and business reports**
+* 🐍 Python-based **data analytics applications**
+* 🧠 Machine Learning and predictive analytics solutions
+* 🗄️ SQL-based data analysis and transformation workflows
+* ☁️ Cloud-based data and analytics solutions
+* 🔄 Automated data pipelines and analytical workflows
+* 📉 Data visualization and executive reporting solutions
+* 🤖 AI-powered analytical tools and applications
+
+---
+
+# 🚀 Featured Work
+
+I build projects that combine **data, analytics, visualization, automation, and AI** to address practical business problems.
+
+Explore my repositories for implementations covering:
+
+**Business Intelligence → Data Analytics → Machine Learning → AI → Data Engineering → Visualization**
+
+🌐 **[Explore My Portfolio](https://ashwikbire.github.io/My-Portfolio/)**
+
+---
+
+# 
+
+---
+
+# 🎯 Professional Focus
+
+**Data Analytics | Business Intelligence | Data Visualization | Machine Learning | AI | Cloud Data | Automation**
+
+I’m continuously expanding my expertise in modern data technologies and building solutions that bridge the gap between **data, technology, and business decision-making**.
+
+---
+
+## 🤝 Let's Connect
+
+Interested in **Data Analytics, Business Intelligence, AI, or collaborative technology projects?**
+
+Feel free to explore my work, connect with me, or reach out for collaboration.
+
+<p align="center">
+  <a href="https://ashwikbire.github.io/My-Portfolio/">
+    🌐 <b>Visit My Portfolio</b>
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://www.linkedin.com/in/ashwik-bire-b2a000186/">
+    💼 <b>LinkedIn</b>
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/AshwikBire">
+    💻 <b>GitHub</b>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Turning data into insights. Building solutions that create impact.</i>
+</p>
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=ashwikbire&icon=0&color=1" alt="Profile Views"/>
+</p>
