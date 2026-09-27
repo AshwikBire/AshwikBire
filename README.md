@@ -25,7 +25,7 @@
 
 ## ⚡ About Me
 
-- 🔭 Data Analyst / BI Developer with **2.6+ years** across **Atos Syntel** (client: FedEx APAC) and **VDA Infosolutions** (clients: Birlasoft, Endurance Technologies)
+- 🔭 Data Analyst / BI Developer with **4+ years** across **Atos Syntel** (client: FedEx APAC) and **VDA Infosolutions** (clients: Birlasoft, Endurance Technologies)
 - 🎓 B.E. Electronics & Telecommunication — P.R. Pote College, Amravati (CGPA 8.67)
 - 🏅 Six Microsoft certifications — **AZ‑900 · PL‑300 · DP‑600 · DP‑700 · DP‑800 · Applied Skills: AI Chat Workflows**
 - 🧠 Building agentic AI tools with **Claude API, GPT API, LangChain**
