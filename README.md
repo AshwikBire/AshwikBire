@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00FFF0&height=220&section=header&text=Ashwik%20Rajendra%20Bire&fontSize=46&fontColor=00FFF0&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Power%20BI%20Developer%20%7C%20Generative%20AI&descAlignY=58&descSize=18&descColor=B47CFF" />
 
 <a href="https://github.com/AshwikBire">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00FFF0&center=true&vCenter=true&width=650&lines=Turning+raw+data+into+decisions;Power+BI+%7C+DAX+%7C+SQL+%7C+Python+%7C+Azure;Building+Agentic+AI+%2F+LLM+workflows;2.6%2B+years+%40+FedEx+APAC+%2F+Birlasoft+%2F+Endurance" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00FFF0&center=true&vCenter=true&width=650&lines=Turning+raw+data+into+decisions;Power+BI+%7C+DAX+%7C+SQL+%7C+Python+%7C+Azure;Building+Agentic+AI+%2F+LLM+workflows;4+%2B+years+%40+FedEx+APAC+%2F+Birlasoft+%2F+Endurance" alt="Typing SVG" />
 </a>
 
 <picture>
